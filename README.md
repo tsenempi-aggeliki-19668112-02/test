@@ -1,36 +1,19 @@
-# Εργαστήριο Δικτύων
+# :information_desk_person: Εργαστήριο Δίκτυα υπολογιστών 2021-2022
 
 ## Στοιχεία Συμμετέχοντα:
 
-Επίθετο: Τσενεμπή
+Όνομα: Αγγελική-Μαρία
 
-Όνομα: Αγγελική
-## Μέρος Πρώτο: Προσομοίωση
-## Μέρος Δεύτερο: Ιστοσελίδες
+Επώνυμο: Τσενεμπή
 
-Αυτό το κείμενο είναι **bold**
+AM: 19668112
 
-Αυτό το κείμενο είναι _italics_
+## Ομάδα
 
-Αυτό το κείμενο είναι **_bold και italics_**
+Τμήμα: 2
 
-κείμενο με ~~διαγράμμιση~~
+# :wave: **The Basics of GitHub**
 
-Λίστα με τα ψώνια μου:
+# :nerd_face: Course Overview and learning outcomes
 
-*τυρί
-
-*Ψωμί
-
-*Αυγά
-
-*Αναψυκτικά
-
-    *σόδα
-    
-    *πορτοκαλάδα
-      *Με ανθρακικό
-      *Χωρίς ανθρακικό
-    *λεμονάδα
-    
-  [Google](https://www.google.com)
+>The goal of this course is to give you a brief introduction to GitHub.We'll also provide you with materials for further learning and a few ideas to get you started on our platform.
